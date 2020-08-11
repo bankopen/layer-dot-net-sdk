@@ -1,0 +1,60 @@
+﻿body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    margin: 2%;
+    width: 96%;
+    float: left;
+    clear: both
+}
+
+.divLogo {
+    margin-top: 2px;
+    margin-bottom: 10px;
+    width: 100%;
+    float: left
+}
+
+.divSection {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    float: left;
+    clear: both
+}
+
+.row {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    width: 100%;
+    float: left
+}
+
+.button {
+    padding-left: 5px;
+    padding-right: 5px
+}
+
+.textBox {
+    width: 60%;
+    height: 200px;
+}
+
+.label {
+    width: 60%;
+    display: inline-block
+}
+
+.error {
+    width: 60%;
+    color: red;
+    font-weight: bold;
+    display: inline-block
+}
+
+.parameter {
+    width: 200px;
+}
