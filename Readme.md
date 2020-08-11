@@ -1,7 +1,5 @@
 ## Layer Payment Payment SDK for Microsoft .NET (ASPX,C#)
 
-This extension utilizes Layer Payment API from Open.
-
 ### Installation
 
 Packages -
