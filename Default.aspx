@@ -8,6 +8,8 @@
 	<link rel="stylesheet" type="text/css" href="Style.css"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
 	<script src="https://sandbox-payments.open.money/layer"></script>
+
+	 <!-- For live use , <script src="https://sandbox-payments.open.money/layer"></script> -->
 </head>
 <body>
 	<div class="wrapper">
