@@ -13,4 +13,4 @@ Steps -
 4. Modify Web.config, enter accesskey and secretkey.
 5. Build Solution
 6. Run Solution
-7. For live use this script in Default.aspx file , <script src="https://sandbox-payments.open.money/layer"></script> -->
+7. For live use this script in Default.aspx file , <script src="https://payments.open.money/layer"></script> -->
